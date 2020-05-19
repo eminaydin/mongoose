@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-101",
+  "version": "1.0.0",
+  "description": "Getting started with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "mongoose": "^5.9.15"
+  }
+}
