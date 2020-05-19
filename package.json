@@ -13,5 +13,9 @@
   },
   "dependencies": {
     "mongoose": "^5.9.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:dci-ber-fbw21/mongoose-101.git"
   }
 }
